@@ -1,0 +1,12 @@
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\config\RootConfiguration.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\config\SecurityConfiguration.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\initializer\SecurityInitializer.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\initializer\MvcInitializer.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\controller\PageController.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\config\MvcConfiguration.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\entity\AuthUser.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\service\Imp\AuthServiceImp.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\service\Imp\UserAuthService.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\mapper\UserMapper.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\service\AuthService.java
+H:\Users\75494\Desktop\BookManager\src\main\java\book\manager\controller\AuthController.java

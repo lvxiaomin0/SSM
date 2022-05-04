@@ -1,0 +1,12 @@
+book\manager\config\MvcConfiguration.class
+book\manager\service\AuthService.class
+book\manager\config\RootConfiguration.class
+book\manager\initializer\MvcInitializer.class
+book\manager\service\Imp\UserAuthService.class
+book\manager\service\Imp\AuthServiceImp.class
+book\manager\mapper\UserMapper.class
+book\manager\config\SecurityConfiguration.class
+book\manager\entity\AuthUser.class
+book\manager\initializer\SecurityInitializer.class
+book\manager\controller\AuthController.class
+book\manager\controller\PageController.class
